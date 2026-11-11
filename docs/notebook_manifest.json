@@ -1,0 +1,37 @@
+[
+  {
+    "title": "P05 cleaning",
+    "path": "notebooks/01_P05_Clean_Data.ipynb",
+    "source_url": "https://drive.google.com/file/d/1Y53YsoRV7zRtJhLEgjOn6Xrp_Ds5irs2/view",
+    "code_cells": 6,
+    "saved_outputs_removed": true
+  },
+  {
+    "title": "U02 EDA (latest)",
+    "path": "notebooks/02_U02_EDA_RootCause.ipynb",
+    "source_url": "https://drive.google.com/file/d/1xeItsAqHjJCWqU9LMK6Iz8jo8Cygg1mJ/view",
+    "code_cells": 37,
+    "saved_outputs_removed": true
+  },
+  {
+    "title": "P07-P14 F01 D01 E01 M01 (Colab)",
+    "path": "notebooks/03_F01_Promo2_Analysis.ipynb",
+    "source_url": "https://colab.research.google.com/drive/19K7REYOXk6DfUlXBEf50IWaSfo_a5GK6?hl=vi",
+    "code_cells": 88,
+    "saved_outputs_removed": true
+  },
+  {
+    "title": "F02-E03 forecasting xAI",
+    "path": "notebooks/04_F02_Forecasting_xAI.ipynb",
+    "source_url": "https://drive.google.com/file/d/1wA5pKE3uRvLpU2EFhmN4yBn657X1IoI6/view",
+    "code_cells": 66,
+    "saved_outputs_removed": true
+  },
+  {
+    "title": "U02 EDA (previous)",
+    "path": "archive/previous_versions/U02_EDA_RootCause_2026-09-21.ipynb",
+    "source_url": "https://drive.google.com/file/d/1jrStSwyg3PKkcC9OzVV4KjBJKdYYorQY/view",
+    "code_cells": 37,
+    "saved_outputs_removed": true
+  }
+]
